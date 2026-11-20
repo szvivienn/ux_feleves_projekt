@@ -1,4 +1,4 @@
-# <Az app neve>: <az ötlet egy mondatban>
+# hjhjhjhjh
 
 Hallgató: <Szűcs Vivien>  ·  Platform: <iOS | Android | reszponzív web>
 Figma tervfájl: <link, "anyone with the link can view">
