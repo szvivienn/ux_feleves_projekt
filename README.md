@@ -1,11 +1,11 @@
-# Graffitis legálfalak
+# Autó mosó check
 
 Hallgató: <Szűcs Vivien>  ·  Platform: <iOS | Android | reszponzív web>
 Figma tervfájl: <link, "anyone with the link can view">
 FigJam kutatási tábla: <link, "anyone with the link can view">
 Prototípus: <link, a 6. lépésből>
 
-## Az ötlet egy mondatban
+## Magyarországon található autómosók értékelése.
 <App> segít <kiknek>, hogy <mit tegyenek>, amikor <helyzet>.
 
 ## Állapot
