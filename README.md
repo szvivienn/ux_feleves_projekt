@@ -16,5 +16,8 @@ Prototípus: <link, a 6. lépésből>
 - [ ] 5. lépés · UI kit, képernyők, heurisztikus értékelés (határidő: 6. alkalom)
 - [ ] 6. lépés · Prototípus, teszt, esettanulmány (határidő: záró bemutató)
 
+Figjam link : https://www.figma.com/board/nGQNNKHXVGdLPtrZ3JGE8E/Portfolio-site--app-?node-id=0-1&t=1w0YtIRMpRf3J3Ep-1
+
+
 ## AI-használat (a teljes projekt)
 <eszköz · mire · mit változtattam rajta>, vagy: nem használtam
