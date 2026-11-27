@@ -1,4 +1,4 @@
-# hjhjhjhjh
+# Graffitis legálfalak
 
 Hallgató: <Szűcs Vivien>  ·  Platform: <iOS | Android | reszponzív web>
 Figma tervfájl: <link, "anyone with the link can view">
